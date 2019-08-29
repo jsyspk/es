@@ -1,2 +1,5 @@
 # es
-elasticsearch adapter for php
+
+elasticsearch adapter for php7.4+
+
+
