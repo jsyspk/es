@@ -13,4 +13,6 @@ class ElasticSearch implements DocStore
     public function __construct()
     {
     }
+
+
 }
